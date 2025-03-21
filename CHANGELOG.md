@@ -4,6 +4,12 @@ FEATURES:
 
 IMPROVEMENTS:
 
+- communicator/ssh: Update connect retry behavior, make configurable [GH-13628]
+- guest/amazonlinux: Support networkd based configuration [GH-13626]
+- guest/rhel: Fix networking setup in recent versions [GH-13625]
+- host/darwin: Remove HFS from ISO creation [GH-13561]
+- provider/virtualbox: Add VirtioSCSI storage controller support [GH-13587]
+
 BUG FIXES:
 
 - command/box: Fix architecture constraints in outdated/updated command [GH-13601]
@@ -12,6 +18,8 @@ BUG FIXES:
 - provider/docker: Handle variation in error text during image removal [GH-13564]
 
 VAGRANT-GO:
+
+- Removed with work archived to vagrant-go branch [GH-13622]
 
 ## 2.4.3 (November 12, 2024)
 
