@@ -1,7 +1,7 @@
 # Vagrant
 
 > [!IMPORTANT]
-> **HCP Vagrant** is in the process of being deprecated and limited features will be available from the community edition effective March 15, 2027. Click [here](https://developer.hashicorp.com/hcp/docs/vagrant/hcp-vagrant-eol) for more information.
+> **HCP Vagrant** is in the process of being deprecated and limited features will be available from the community edition effective November 2, 2026. Click [here](https://developer.hashicorp.com/hcp/docs/vagrant/hcp-vagrant-eol) for more information.
 > 
 > **This change is only for HCP Vagrant and does not apply to Vagrant CLI.**
 
